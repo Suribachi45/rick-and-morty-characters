@@ -37,4 +37,4 @@ El código del ejercicio se divide en tres archivos:
 - Haz el páginado. Piensa como añadir +1 a tu página al pulsar "Next Page" o -1 al pulsar "Previous Page" a la página en la que está para hacer el páginado.
 - Revisa la documentación si tienes dudas  
 
-Let´s CODE
+Let´s COD
